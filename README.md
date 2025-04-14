@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Salman Sadik Siddiquee]!
+# 👋 Hi there, I'm Salman Sadik Siddiquee!
 
 ### 💻 Full-Stack Web Developer | JavaScript Enthusiast | Problem Solver
 
