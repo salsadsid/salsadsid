@@ -35,9 +35,11 @@ Currently, I’m working as a **Frontend React Developer at Affpilot**, where I 
 
 ### 🚀 Projects Highlights
 
-- **Affpilot**  
-  *AI Blogging & SEO Platform* — [Live Site](https://affpilot.com)  
-  Frontend development, SSR with Next.js, responsive design, and seamless user experience.
+- **Brain Booming AI**  
+  *AI powered Tools* — [Live Site](https://brainboomingai.vercel.app/)  
+   A productivity platform offering AI-powered tools like Text Converter, Grammar Checker, Image
+ to Text, Text Summarizer, Spell Checker, and Paraphrasing Tool. It enhances content creation and editing
+ efficiency and is designed for high performance, scalability, and user-friendly experiences.
 
 - **Motorbike Fragments**  
   *E-commerce Website* — MERN Stack | JWT | Stripe  
