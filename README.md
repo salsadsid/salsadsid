@@ -36,23 +36,18 @@ Currently, I’m working as a **Frontend React Developer at Affpilot**, where I 
 ### 🚀 Projects Highlights
 
 - **Brain Booming AI**  
-  *AI powered Tools* — [Live Site](https://brainboomingai.vercel.app/)  
+  *AI powered Tools* — [Live Site](https://brainboomingai.vercel.app/)
+  
    A productivity platform offering AI-powered tools like Text Converter, Grammar Checker, Image
  to Text, Text Summarizer, Spell Checker, and Paraphrasing Tool. It enhances content creation and editing
  efficiency and is designed for high performance, scalability, and user-friendly experiences.
 
-- **Motorbike Fragments**  
-  *E-commerce Website* — MERN Stack | JWT | Stripe  
-  Customers can browse products, make payments, and leave reviews.
-
-- **Electron Warehouse**  
-  *Inventory Management System* — MERN Stack  
-  Product restocking, delivery system, role-based access, Firebase Auth.
-
-- **Appointment Scheduler**  
-  *Real-time Scheduling App* — React | Firebase  
-  Book appointments, manage users, and maintain schedules with live updates.
-
+- **School Management System**  
+  *A School management system* — [Live Site](https://school-management-frontend-olive.vercel.app/)
+  
+  Developed a scalable React.js application with Node.js, MongoDB, and JWT
+ authentication, enabling efficient attendance, fee, class routine management, and role-based portals for students,
+ teachers, and administrators.
 ---
 
 ### 📫 Let’s Connect!
