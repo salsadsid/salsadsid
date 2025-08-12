@@ -4,7 +4,7 @@
 
 Born and raised in Bangladesh, I’m a passionate full-stack developer who enjoys building clean, efficient, and user-friendly web applications. My love for cricket, reading, and travel feeds my curiosity and creativity in both life and code.
 
-Currently, I’m working as a **Frontend React Developer at Affpilot**, where I help develop and maintain core features for an AI-powered blogging and SEO platform serving over **60,000 users**.
+Currently, I’m working as a **Frontend React Developer at Affpilot**, where I help develop and maintain core features for an AI-powered blogging and SEO platform serving over **80,000 users**.
 
 ---
 
