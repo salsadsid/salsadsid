@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Salman Sadik Siddiquee!
 
-### 💻 Full-Stack Web Developer | JavaScript Enthusiast | Problem Solver
+### 💻  Full Stack Developer | Frontend Focused, Backend Ready | React.js | Next.js | Node.js
 
 Born and raised in Bangladesh, I’m a passionate full-stack developer who enjoys building clean, efficient, and user-friendly web applications. My love for cricket, reading, and travel feeds my curiosity and creativity in both life and code.
 
