@@ -1,10 +1,11 @@
 # 👋 Hi there, I'm Salman Sadik Siddiquee!
 
-### 💻  Full Stack Developer | Frontend Focused, Backend Ready | React.js | Next.js | Node.js
+### 💻  Full Stack Developer | React.js | Next.js | Node.js
 
-Born and raised in Bangladesh, I’m a passionate full-stack developer who enjoys building clean, efficient, and user-friendly web applications. My love for cricket, reading, and travel feeds my curiosity and creativity in both life and code.
+Currently, I’m a MERN Stack Developer specializing in building scalable, full-stack web applications with React.js, Next.js, Node.js, Express.js, and MongoDB. At AlgoSoft Technologies Ltd, I develop and maintain advanced MERN applications, integrating real-time hardware data into web platforms for neurofeedback device management and analytics. I focus on performance optimization, clean architecture, and delivering solutions that bridge technology with real-world healthcare needs.
 
-Currently, I’m working as a **Frontend React Developer at Affpilot**, where I help develop and maintain core features for an AI-powered blogging and SEO platform serving over **80,000 users**.
+Previously, I worked as a Frontend React Developer at Affpilot, where I helped build an AI-powered auto-blogging platform serving 100,000+ users. My work focused on creating reusable components, enhancing UX, and integrating automation features for content generation, SEO optimization, and platform scheduling.
+
 
 ---
 
