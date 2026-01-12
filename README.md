@@ -44,24 +44,24 @@ I enjoy working on **product-focused systems** where performance, UX, and real-w
 
 ## 🛠️ Tech Stack
 
-**Frontend** :
+**Frontend**:
 React.js • Next.js • Redux Toolkit • React Native
 Tailwind CSS • Material UI • Shadcn UI • HTML5 • CSS3
 
-**Backend** : 
+**Backend**: 
 Node.js • Express.js • Nest.js • REST APIs • GraphQL
 
-**Databases** :
+**Databases**:
 MongoDB • Mongoose • MySQL • PostgreSQL
 
-**Testing** :
+**Testing**:
 Jest • React Testing Library • Vitest
 
-**Cloud & DevOps** :
+**Cloud & DevOps**:
 Vercel • Render • DigitalOcean • Contabo
 CI/CD (GitHub Actions)
 
-**Security & Auth** :
+**Security & Auth**:
 JWT • OAuth 2.0 • RBAC • Secure API Design
 
 ---
