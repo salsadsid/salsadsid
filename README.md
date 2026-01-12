@@ -5,7 +5,7 @@
 
 I’m a software engineer with **2+ years of professional experience** building scalable, high-performance web applications. I specialize in **React.js, Next.js, and modern frontend architecture**, while also having strong full-stack experience with Node.js and databases.
 
-I enjoy working on **product-focused systems**—where performance, UX, and real-world business impact matter as much as clean code.
+I enjoy working on **product-focused systems** where performance, UX, and real-world business impact matter as much as clean code.
 
 ---
 
