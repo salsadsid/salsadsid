@@ -1,68 +1,109 @@
-# 👋 Hi there, I'm Salman Sadik Siddiquee!
+## 👋 Hi, I’m Salman Sadik Siddiquee
 
-### 💻  Full Stack Developer | React.js | Next.js | Node.js
+**Frontend / Full-Stack Engineer (React • Next.js • MERN)**
+📍 Dhaka, Bangladesh
 
-Currently, I’m a MERN Stack Developer specializing in building scalable, full-stack web applications with React.js, Next.js, Node.js, Express.js, and MongoDB. At AlgoSoft Technologies Ltd, I develop and maintain advanced MERN applications, integrating real-time hardware data into web platforms for neurofeedback device management and analytics. I focus on performance optimization, clean architecture, and delivering solutions that bridge technology with real-world healthcare needs.
+I’m a software engineer with **2+ years of professional experience** building scalable, high-performance web applications. I specialize in **React.js, Next.js, and modern frontend architecture**, while also having strong full-stack experience with Node.js and databases.
 
-Previously, I worked as a Frontend React Developer at Affpilot, where I helped build an AI-powered auto-blogging platform serving 100,000+ users. My work focused on creating reusable components, enhancing UX, and integrating automation features for content generation, SEO optimization, and platform scheduling.
-
+I enjoy working on **product-focused systems**—where performance, UX, and real-world business impact matter as much as clean code.
 
 ---
 
-### 🔧 Tech Stack
+## 💼 Professional Experience
+
+### **MERN Stack Developer**
+
+**AlgoSoft Technologies Ltd.** | Sep 2025 – Present
+
+* Built scalable systems for **neurofeedback device management**, handling devices, warranties, and support workflows.
+* Designed **automated email & SMS notification pipelines** for operational alerts and lifecycle events.
+* Implemented **real-time data synchronization** between distributor and reseller portals.
+* Developed an **internal LMS** for training, progress tracking, and competency assessment.
+* Collaborated closely with stakeholders to deliver **domain-specific healthcare solutions**.
+
+### **Frontend React Developer**
+
+**Affpilot** | Oct 2023 – Sep 2025
+
+* Worked on a **high-traffic SaaS platform (100k+ users)** with a focus on performance and stability.
+* Built scalable, reusable **React component architectures** for a rapidly evolving codebase.
+* Developed core frontend systems for an **AI-powered auto-blogging platform** supporting bulk content generation.
+* Implemented SEO-focused tools including keyword research, clustering, and sitemap scraping.
+* Integrated publishing pipelines with **WordPress and Shopify**.
+
+### **Freelance Software Developer (Part-Time)**
+
+**H.A.K Academy** | 2025
+
+* Delivered a full **School Management System** with role-based portals and JWT authentication.
+* Built attendance, fee, exam, and result modules with **real-time SMS/email notifications**.
+* Integrated **ZKTeco BioTime devices** for automated attendance alerts.
+* Deployed across **Vercel, DigitalOcean, and Contabo** for reliability and scalability.
+
+---
+
+## 🛠️ Tech Stack
 
 **Frontend**
-- React.js | Next.js | Redux Toolkit
-- Tailwind CSS | Shadcn | HTML5 | CSS3
+React.js • Next.js • Redux Toolkit • React Native
+Tailwind CSS • Material UI • Shadcn UI • HTML5 • CSS3
 
 **Backend**
-- Node.js | Express.js | REST API | JWT
+Node.js • Express.js • Nest.js • REST APIs • GraphQL
 
-**Database**
-- MongoDB | Mongoose | Firebase
+**Databases**
+MongoDB • Mongoose • MySQL • PostgreSQL
 
-**Tools & Platforms**
-- Git & GitHub | Vercel | Render | Postman
-- Stripe API | Figma | Heroku
+**Testing**
+Jest • React Testing Library • Vitest
 
----
+**Cloud & DevOps**
+Vercel • Render • DigitalOcean • Contabo
+CI/CD (GitHub Actions)
 
-### 🌱 I’m currently learning:
-- Advanced TypeScript Patterns
-- System Design & Scalability
-- GraphQL
-
----
-
-### 🚀 Projects Highlights
-
-- **Brain Booming AI**  
-  *AI powered Tools* — [Live Site](https://brainboomingai.vercel.app/)
-  
-   A productivity platform offering AI-powered tools like Text Converter, Grammar Checker, Image
- to Text, Text Summarizer, Spell Checker, and Paraphrasing Tool. It enhances content creation and editing
- efficiency and is designed for high performance, scalability, and user-friendly experiences.
-
-- **School Management System**  
-  *A School management system* — [Live Site](https://school-management-frontend-olive.vercel.app/)
-  
-  Developed a scalable React.js application with Node.js, MongoDB, and JWT
- authentication, enabling efficient attendance, fee, class routine management, and role-based portals for students,
- teachers, and administrators.
----
-
-### 📫 Let’s Connect!
-
-- 📧 Email: [salman.dnj@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/salsadsid](https://linkedin.com/in/salsadsid)  
-- 💻 GitHub: [github.com/salsadsid](https://github.com/salsadsid)  
-- 📍 Location: Dhaka, Bangladesh  
+**Security & Auth**
+JWT • OAuth 2.0 • RBAC • Secure API Design
 
 ---
 
-### ⚡ Fun Fact:
-When I'm not coding, you'll find me swinging a cricket bat, lost in a book, or planning my next travel adventure 🌍
+## 🚀 Featured Projects
+
+### **School Management System**
+
+A scalable web application for academic and administrative automation.
+**Tech:** React.js, Node.js, MongoDB, JWT
+**Features:** Attendance, fees, exams, results, role-based dashboards, SMS/email alerts.
+
+### **Brain Booming**
+
+An AI-powered productivity platform offering text conversion, summarization, grammar checking, OCR, and paraphrasing tools.
+Designed for **performance, scalability, and smooth UX**.
 
 ---
 
-Thanks for visiting my profile! If you like what I do, feel free to ⭐ some of my repos or connect with me on LinkedIn!
+## 🌱 Currently Learning
+
+* Advanced TypeScript patterns
+* System design & scalability
+* GraphQL & API optimization
+
+---
+
+## 🏆 Achievements
+
+* **Programming Hero – BlackBelt** (Top 5%)
+* **CodeChef**: 2★ (Max Rating: 1426)
+
+---
+
+## 📫 Let’s Connect
+
+* 📧 Email: **[salman.dnj@gmail.com](mailto:salman.dnj@gmail.com)**
+* 💼 LinkedIn: **linkedin.com/in/salsadsid**
+* 💻 GitHub: **github.com/salsadsid**
+
+---
+
+⚡ *When I’m not coding, I enjoy cricket, reading, and planning my next travel adventure.*
+
+⭐ If you find my work useful, feel free to star a repo or connect!
