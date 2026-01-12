@@ -101,6 +101,7 @@ Designed for **performance, scalability, and smooth UX**.
 * 📧 Email: **[salman.dnj@gmail.com](mailto:salman.dnj@gmail.com)**
 * 💼 LinkedIn: **linkedin.com/in/salsadsid**
 * 💻 GitHub: **github.com/salsadsid**
+* 📞 WhatsApp: **+8801780666043**
 
 ---
 
