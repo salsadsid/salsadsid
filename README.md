@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Salman Sadik Siddiquee
 
-**Frontend / Full-Stack Engineer (React • Next.js • MERN)**
+**Full-Stack Engineer (React • Next.js • MERN)**
 📍 Dhaka, Bangladesh
 
 I’m a software engineer with **2+ years of professional experience** building scalable, high-performance web applications. I specialize in **React.js, Next.js, and modern frontend architecture**, while also having strong full-stack experience with Node.js and databases.
