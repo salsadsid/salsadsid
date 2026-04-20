@@ -67,7 +67,7 @@ JWT • OAuth 2.0 • RBAC
 
 ## 🚀 Featured Projects
 
-### **School Management System**
+### [**School Management System**](https://www.hakacademy.edu.bd/)
 Full-stack system for academic operations and automation  
 **Tech:** Next.js, Node.js, MongoDB  
 - Role-based dashboards (students, teachers, admins)  
@@ -76,7 +76,7 @@ Full-stack system for academic operations and automation
 
 ---
 
-### **Brain Booming**
+### [**Brain Booming**](https://brainboomingai.vercel.app/)
 AI-powered productivity platform  
 - Text tools: summarization, grammar, OCR, paraphrasing  
 - Designed for **scalability, performance, and smooth UX**
