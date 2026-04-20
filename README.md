@@ -1,110 +1,108 @@
 ## 👋 Hi, I’m Salman Sadik Siddiquee
 
-**Full-Stack Engineer (React • Next.js • MERN)**
-📍 Dhaka, Bangladesh
+**Full Stack Engineer | Real-Time Systems & Scalable SaaS**  
+📍 Dhaka, Bangladesh • 🌍 Remote-Ready
 
-I’m a software engineer with **2+ years of professional experience** building scalable, high-performance web applications. I specialize in **React.js, Next.js, and modern frontend architecture**, while also having strong full-stack experience with Node.js and databases.
+I’m a software engineer with 2+ years of experience building **scalable, production-grade web applications** with a strong focus on **real-time systems, performance, and user experience**.
 
-I enjoy working on **product-focused systems** where performance, UX, and real-world business impact matter as much as clean code.
+I work across the stack using **Next.js, React, Node.js, and modern backend architectures**, delivering systems that handle real-world workflows—not just demos.
 
 ---
 
 ## 💼 Professional Experience
 
 ### **MERN Stack Developer**
-
 **AlgoSoft Technologies Ltd.** | Sep 2025 – Present
 
-* Built scalable systems for **neurofeedback device management**, handling devices, warranties, and support workflows.
-* Designed **automated email & SMS notification pipelines** for operational alerts and lifecycle events.
-* Implemented **real-time data synchronization** between distributor and reseller portals.
-* Developed an **internal LMS** for training, progress tracking, and competency assessment.
-* Collaborated closely with stakeholders to deliver **domain-specific healthcare solutions**.
+- Architected a **centralized backend platform** for neurofeedback device management (devices, warranties, support workflows)
+- Built **event-driven notification systems (SMS & email)** for critical lifecycle events
+- Implemented **real-time data synchronization** across distributor and reseller systems
+- Developed an internal **Learning Management System (LMS)** for training and assessments
+- Delivered **domain-specific healthcare solutions** in collaboration with stakeholders
 
-### **Frontend React Developer**
+---
 
+### **Frontend Engineer (React)**
 **Affpilot** | Oct 2023 – Sep 2025
 
-* Worked on a **high-traffic SaaS platform (100k+ users)** with a focus on performance and stability.
-* Built scalable, reusable **React component architectures** for a rapidly evolving codebase.
-* Developed core frontend systems for an **AI-powered auto-blogging platform** supporting bulk content generation.
-* Implemented SEO-focused tools including keyword research, clustering, and sitemap scraping.
-* Integrated publishing pipelines with **WordPress and Shopify**.
+- Contributed to a **high-traffic SaaS platform (100k+ users)** with focus on performance and stability
+- Built scalable **component architectures** enabling rapid feature development
+- Developed frontend systems for an **AI-powered content generation platform**
+- Engineered **high-throughput publishing workflows** integrated with WordPress & Shopify
+- Built SEO tooling (keyword clustering, sitemap analysis) for **data-driven content scaling**
 
-### **Freelance Software Developer (Part-Time)**
+---
 
+### **Freelance Software Engineer (Part-Time)**
 **H.A.K Academy** | 2025
 
-* Delivered a full **School Management System** with role-based portals and JWT authentication.
-* Built attendance, fee, exam, and result modules with **real-time SMS/email notifications**.
-* Integrated **ZKTeco BioTime devices** for automated attendance alerts.
-* Deployed across **Vercel, DigitalOcean, and Contabo** for reliability and scalability.
+- Delivered a **production-grade School Management System** (1000+ users)
+- Built **attendance, fees, exams, and results modules** with real-time notifications
+- Integrated **ZKTeco BioTime devices** for automated attendance tracking
+- Deployed across **Vercel, DigitalOcean, Contabo** ensuring reliability and uptime
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**:
-React.js • Next.js • Redux Toolkit • React Native
-Tailwind CSS • Material UI • Shadcn UI • HTML5 • CSS3
+**Frontend**  
+Next.js • React • Redux Toolkit • Tailwind CSS • ShadCN • Material UI  
 
-**Backend**: 
-Node.js • Express.js • Nest.js • REST APIs • GraphQL
+**Backend**  
+Node.js • Express.js • Nest.js • REST APIs • GraphQL  
 
-**Databases**:
-MongoDB • Mongoose • MySQL • PostgreSQL
+**Databases**  
+MongoDB • PostgreSQL • MySQL  
 
-**Testing**:
-Jest • React Testing Library • Vitest
+**Testing**  
+Jest • React Testing Library • Vitest • Cypress  
 
-**Cloud & DevOps**:
-Vercel • Render • DigitalOcean • Contabo
-CI/CD (GitHub Actions)
+**Cloud & DevOps**  
+AWS • DigitalOcean • Vercel • CI/CD (GitHub Actions)  
 
-**Security & Auth**:
-JWT • OAuth 2.0 • RBAC • Secure API Design
+**Security**  
+JWT • OAuth 2.0 • RBAC  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### **School Management System**
-
-A scalable web application for academic and administrative automation.
-**Tech:** React.js, Node.js, MongoDB, JWT
-**Features:** Attendance, fees, exams, results, role-based dashboards, SMS/email alerts.
-
-### **Brain Booming**
-
-An AI-powered productivity platform offering text conversion, summarization, grammar checking, OCR, and paraphrasing tools.
-Designed for **performance, scalability, and smooth UX**.
+Full-stack system for academic operations and automation  
+**Tech:** Next.js, Node.js, MongoDB  
+- Role-based dashboards (students, teachers, admins)  
+- Attendance + real-time SMS/email alerts  
+- Fees, exams, results, class routines  
 
 ---
 
-## 🌱 Currently Learning
+### **Brain Booming**
+AI-powered productivity platform  
+- Text tools: summarization, grammar, OCR, paraphrasing  
+- Designed for **scalability, performance, and smooth UX**
 
-* Advanced TypeScript patterns
-* System design & scalability
-* GraphQL & API optimization
+---
+
+## 🌱 Currently Focused On
+
+- System design & scalable architectures  
+- Advanced TypeScript patterns  
+- Performance optimization (frontend & backend)
 
 ---
 
 ## 🏆 Achievements
 
-* **Programming Hero – BlackBelt** (Top 5%)
-* **CodeChef**: 2★ (Max Rating: 1426)
+- **CodeChef**: 2★ (Max Rating: 1426)
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect
 
-* 📧 Email: **[salman.dnj@gmail.com](mailto:salman.dnj@gmail.com)**
-* 💼 LinkedIn: **linkedin.com/in/salsadsid**
-* 💻 GitHub: **github.com/salsadsid**
-* 📞 WhatsApp: **+8801780666043**
+- Email: **salman.dnj@gmail.com**
+- LinkedIn: linkedin.com/in/salsadsid
+- GitHub: github.com/salsadsid
 
 ---
 
-⚡ *When I’m not coding, I enjoy cricket, reading, and planning my next travel adventure.*
-
-⭐ If you find my work useful, feel free to star a repo or connect!
+⚡ I enjoy building systems that solve real-world problems at scale.
