@@ -1,108 +1,55 @@
-## 👋 Hi, I’m Salman Sadik Siddiquee
+# Hi, I'm Salman Sadik Siddiquee 👋
 
-**Full Stack Engineer | Real-Time Systems & Scalable SaaS**  
-📍 Dhaka, Bangladesh • 🌍 Remote-Ready
+**Full-Stack Engineer · React/Next.js · Node · TypeScript · AI products**
+📍 Dhaka, Bangladesh (UTC+6) · Open to remote
 
-I’m a software engineer with 2+ years of experience building **scalable, production-grade web applications** with a strong focus on **real-time systems, performance, and user experience**.
+~3 years shipping production SaaS:
 
-I work across the stack using **Next.js, React, Node.js, and modern backend architectures**, delivering systems that handle real-world workflows—not just demos.
+- 🤖 An **AI content platform with 100k+ users** — the generation and publishing flows behind **1M+ articles (2B+ words)**
+- 🏥 A **device-lifecycle platform** for a German medical-device manufacturer — **445 devices across 417 clinics**, EU-MDR-oriented quality management
+- 🏫 A **school management system** I designed, built, and operate solo in production — **1,000+ students**, biometric attendance, guardian SMS
 
----
-
-## 💼 Professional Experience
-
-### **MERN Stack Developer**
-**AlgoSoft Technologies Ltd.** | Sep 2025 – Present
-
-- Architected a **centralized backend platform** for neurofeedback device management (devices, warranties, support workflows)
-- Built **event-driven notification systems (SMS & email)** for critical lifecycle events
-- Implemented **real-time data synchronization** across distributor and reseller systems
-- Developed an internal **Learning Management System (LMS)** for training and assessments
-- Delivered **domain-specific healthcare solutions** in collaboration with stakeholders
+I build LLM features that ship — RAG pipelines, SSE-streaming interfaces, structured outputs — and the integration-heavy systems around them: payments (~$390K processed), HMAC-verified webhooks, cron/queue pipelines, biometric hardware, SMS gateways.
 
 ---
 
-### **Frontend Engineer (React)**
-**Affpilot** | Oct 2023 – Sep 2025
+## 🚀 Featured
 
-- Contributed to a **high-traffic SaaS platform (100k+ users)** with focus on performance and stability
-- Built scalable **component architectures** enabling rapid feature development
-- Developed frontend systems for an **AI-powered content generation platform**
-- Engineered **high-throughput publishing workflows** integrated with WordPress & Shopify
-- Built SEO tooling (keyword clustering, sitemap analysis) for **data-driven content scaling**
+### [DSA Visualizer](https://github.com/salsadsid/visualizer) — open-source algorithm visualizer
+Play/pause/step/scrub playback engine, synchronized pseudocode highlighting, live pointer tracking, and C++/Python/JS/TS code panels. Next.js 16 · Tailwind CSS 4. **[Live demo →](https://visualizer-gold.vercel.app/)**
 
----
+### [Brain Booming](https://github.com/salsadsid/brainboomingai) — live AI writing & utility suite (11 tools)
+Gemini structured prompts · Tesseract.js OCR · Auth.js v5 (OAuth + magic links) · MongoDB · Sentry · Vitest. **[Try it →](https://brainboomingai.vercel.app/)**
 
-### **Freelance Software Engineer (Part-Time)**
-**H.A.K Academy** | 2025
-
-- Delivered a **production-grade School Management System** (1000+ users)
-- Built **attendance, fees, exams, and results modules** with real-time notifications
-- Integrated **ZKTeco BioTime devices** for automated attendance tracking
-- Deployed across **Vercel, DigitalOcean, Contabo** ensuring reliability and uptime
+### [School Management System](https://www.hakacademy.edu.bd/) — client work, live in production
+ZKTeco biometric attendance with guardian SMS within seconds of a scan, exams and results with auto-computed GPA, Bengali-typography PDF pipelines. React · Node/Express · MongoDB.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-**Frontend**  
-Next.js • React • Redux Toolkit • Tailwind CSS • ShadCN • Material UI  
+**Full-Stack Developer · AlgoSoft Technologies** — Sep 2025 – present
+Device-lifecycle platform for a German neurofeedback device manufacturer (445 devices, 417 clinics): automated warranty-renewal pipelines (QStash cron), AI support-inbox triage (IMAP + OpenAI), a RAG support chatbot (Upstash Vector, BGE-M3 embeddings, cross-encoder reranking), and a Shopify → platform event broker (Firebase Functions, Cloud Tasks) — HMAC-verified, idempotent, auto-retried.
 
-**Backend**  
-Node.js • Express.js • Nest.js • REST APIs • GraphQL  
+**Frontend React Developer · Affpilot** — Oct 2023 – Sep 2025
+AI auto-blogging SaaS with 100k+ users: 16 AI article generators behind 1M+ generated articles, write-to-publish pipelines to WordPress/Blogger/Medium/Shopify, checkout and billing across Stripe/PayPal/SSLCommerz/bKash (~$390K processed), and founding frontend engineer (79% of commits) of Flippium, a website-flipping marketplace.
 
-**Databases**  
-MongoDB • PostgreSQL • MySQL  
-
-**Testing**  
-Jest • React Testing Library • Vitest • Cypress  
-
-**Cloud & DevOps**  
-AWS • DigitalOcean • Vercel • CI/CD (GitHub Actions)  
-
-**Security**  
-JWT • OAuth 2.0 • RBAC  
+**Freelance Software Developer · H.A.K Academy** — 2025 – present
+Solo-built and operate a school platform for 1,000+ students: 2,000–3,000 biometric punches/day classified in real time, a rate-limited guardian-SMS service with retry/backoff and an emergency kill switch, running on Vercel + DigitalOcean (PM2 cluster).
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Stack
 
-### [**School Management System**](https://www.hakacademy.edu.bd/)
-Full-stack system for academic operations and automation  
-**Tech:** Next.js, Node.js, MongoDB  
-- Role-based dashboards (students, teachers, admins)  
-- Attendance + real-time SMS/email alerts  
-- Fees, exams, results, class routines  
-
----
-
-### [**Brain Booming**](https://brainboomingai.vercel.app/)
-AI-powered productivity platform  
-- Text tools: summarization, grammar, OCR, paraphrasing  
-- Designed for **scalability, performance, and smooth UX**
-
----
-
-## 🌱 Currently Focused On
-
-- System design & scalable architectures  
-- Advanced TypeScript patterns  
-- Performance optimization (frontend & backend)
-
----
-
-## 🏆 Achievements
-
-- **CodeChef**: 2★ (Max Rating: 1426)
+**Frontend:** React 18/19 · Next.js (App Router) · Redux Toolkit / RTK Query · TanStack Query · Tailwind CSS · MUI · shadcn/ui
+**Backend:** Node.js · Express · REST & GraphQL · Socket.io · cron & queue pipelines (QStash, Cloud Tasks) · JWT/OAuth 2.0 · RBAC
+**AI/LLM:** OpenAI & Gemini APIs · RAG (vector search, embeddings, reranking) · structured outputs · SSE streaming
+**Databases:** MongoDB (Mongoose) · PostgreSQL · MySQL (Prisma) · Firestore
+**Cloud & Ops:** Vercel · DigitalOcean (VPS, PM2) · Firebase/GCP Functions · GitHub Actions CI · Sentry
+**Testing:** Vitest · Jest · React Testing Library
 
 ---
 
 ## 📫 Connect
 
-- Email: **salman.dnj@gmail.com**
-- LinkedIn: linkedin.com/in/salsadsid
-- GitHub: github.com/salsadsid
-
----
-
-⚡ I enjoy building systems that solve real-world problems at scale.
+**salman.dnj@gmail.com** · [LinkedIn](https://linkedin.com/in/salsadsid) · [GitHub](https://github.com/salsadsid)
