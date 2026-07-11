@@ -1,7 +1,7 @@
 # Hi, I'm Salman Sadik Siddiquee 👋
 
 **Full-Stack Engineer · React/Next.js · Node · TypeScript · AI products**
-📍 Dhaka, Bangladesh (UTC+6) · Open to remote
+📍 Dhaka, Bangladesh (UTC+6) · Open to remote · 🌐 [salmansadiksiddiquee.tech](https://salmansadiksiddiquee.tech)
 
 ~3 years shipping production SaaS:
 
@@ -52,4 +52,4 @@ Solo-built and operate a school platform for 1,000+ students: 2,000–3,000 biom
 
 ## 📫 Connect
 
-**salman.dnj@gmail.com** · [LinkedIn](https://linkedin.com/in/salsadsid) · [GitHub](https://github.com/salsadsid)
+**salman.dnj@gmail.com** · [Portfolio](https://salmansadiksiddiquee.tech) · [LinkedIn](https://linkedin.com/in/salsadsid) · [GitHub](https://github.com/salsadsid)
