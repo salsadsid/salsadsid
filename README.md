@@ -34,7 +34,7 @@ Device-lifecycle platform for a German neurofeedback device manufacturer (445 de
 **Frontend React Developer · Affpilot** — Oct 2023 – Sep 2025
 AI auto-blogging SaaS with 100k+ users: 16 AI article generators behind 1M+ generated articles, write-to-publish pipelines to WordPress/Blogger/Medium/Shopify, checkout and billing across Stripe/PayPal/SSLCommerz/bKash (~$390K processed), and founding frontend engineer (79% of commits) of Flippium, a website-flipping marketplace.
 
-**Freelance Software Developer · H.A.K Academy** — 2025 – present
+**Software Developer (Contract) · H.A.K Academy** — 2025 – present
 Solo-built and operate a school platform for 1,000+ students: 2,000–3,000 biometric punches/day classified in real time, a rate-limited guardian-SMS service with retry/backoff and an emergency kill switch, running on Vercel + DigitalOcean (PM2 cluster).
 
 ---
