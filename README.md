@@ -1,6 +1,7 @@
 # Hi, I'm Salman Sadik Siddiquee 👋
 
 **Full-Stack Engineer · React/Next.js · Node · TypeScript · AI products**
+
 📍 Dhaka, Bangladesh (UTC+6) · Open to remote · 🌐 [salmansadiksiddiquee.tech](https://salmansadiksiddiquee.tech)
 
 ~3 years shipping production SaaS:
@@ -29,24 +30,27 @@ ZKTeco biometric attendance with guardian SMS within seconds of a scan, exams an
 ## 💼 Experience
 
 **Full-Stack Developer · AlgoSoft Technologies** · Sep 2025 - present
+
 Device-lifecycle platform for a German neurofeedback device manufacturer (445 devices, 417 clinics): automated warranty-renewal pipelines (QStash cron), AI support-inbox triage (IMAP + OpenAI), a RAG support chatbot (Upstash Vector, BGE-M3 embeddings, cross-encoder reranking), and a Shopify → platform event broker (Firebase Functions, Cloud Tasks), HMAC-verified, idempotent, and auto-retried.
 
 **Frontend React Developer · Affpilot** · Oct 2023 - Sep 2025
+
 AI auto-blogging SaaS with 100k+ users: 16 AI article generators behind 1M+ generated articles, write-to-publish pipelines to WordPress/Blogger/Medium/Shopify, checkout and billing across Stripe/PayPal/SSLCommerz/bKash (~$390K processed), and founding frontend engineer (79% of commits) of Flippium, a website-flipping marketplace.
 
 **Software Developer (Contract) · H.A.K Academy** · Jan 2025 - Aug 2026
+
 Solo-built and operate a school platform for 1,000+ students: 2,000-3,000 biometric punches/day classified in real time, a rate-limited guardian-SMS service with retry/backoff and an emergency kill switch, running on Vercel + DigitalOcean (PM2 cluster).
 
 ---
 
 ## 🛠️ Stack
 
-**Frontend:** React 18/19 · Next.js (App Router) · Redux Toolkit / RTK Query · TanStack Query · Tailwind CSS · MUI · shadcn/ui
-**Backend:** Node.js · Express · REST & GraphQL · Socket.io · cron & queue pipelines (QStash, Cloud Tasks) · JWT/OAuth 2.0 · RBAC
-**AI/LLM:** OpenAI & Gemini APIs · RAG (vector search, embeddings, reranking) · structured outputs · SSE streaming
-**Databases:** MongoDB (Mongoose) · PostgreSQL · MySQL (Prisma) · Firestore
-**Cloud & Ops:** Vercel · DigitalOcean (VPS, PM2) · Firebase/GCP Functions · GitHub Actions CI · Sentry
-**Testing:** Vitest · Jest · React Testing Library
+- **Frontend:** React 18/19 · Next.js (App Router) · Redux Toolkit / RTK Query · TanStack Query · Tailwind CSS · MUI · shadcn/ui
+- **Backend:** Node.js · Express · REST & GraphQL · Socket.io · cron & queue pipelines (QStash, Cloud Tasks) · JWT/OAuth 2.0 · RBAC
+- **AI/LLM:** OpenAI & Gemini APIs · RAG (vector search, embeddings, reranking) · structured outputs · SSE streaming
+- **Databases:** MongoDB (Mongoose) · PostgreSQL · MySQL (Prisma) · Firestore
+- **Cloud & Ops:** Vercel · DigitalOcean (VPS, PM2) · Firebase/GCP Functions · GitHub Actions CI · Sentry
+- **Testing:** Vitest · Jest · React Testing Library
 
 ---
 
