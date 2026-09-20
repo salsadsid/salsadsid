@@ -7,7 +7,8 @@
 ~3 years shipping production SaaS:
 
 - 🤖 An **AI content platform with 100k+ users**: the generation and publishing flows behind **1M+ articles (2B+ words)**
-- 🏥 A **device-lifecycle platform** for a German medical-device manufacturer: **445 devices across 417 clinics**, EU-MDR-oriented quality management
+- 🏥 A **device-lifecycle platform** for a European medical-device manufacturer: three portals, EU-MDR-oriented quality management, **top contributor with 1,100+ commits**
+- 📄 A **document-AI extraction engine** turning scanned utility bills into validated spreadsheets for a North American client: geometric anchors, two-model consensus, **63% of the codebase**
 - 🏫 A **school management system** I designed, built, and operate solo in production: **1,000+ students**, biometric attendance, guardian SMS
 
 I build LLM features that ship (RAG pipelines, SSE-streaming interfaces, structured outputs) and the integration-heavy systems around them: payments (~$390K processed), HMAC-verified webhooks, cron/queue pipelines, biometric hardware, SMS gateways.
@@ -31,13 +32,17 @@ ZKTeco biometric attendance with guardian SMS within seconds of a scan, exams an
 
 **Full-Stack Developer · AlgoSoft Technologies** · Sep 2025 - present
 
-Device-lifecycle platform for a German neurofeedback device manufacturer (445 devices, 417 clinics): automated warranty-renewal pipelines (QStash cron), AI support-inbox triage (IMAP + OpenAI), a RAG support chatbot (Upstash Vector, BGE-M3 embeddings, cross-encoder reranking), and a Shopify → platform event broker (Firebase Functions, Cloud Tasks), HMAC-verified, idempotent, and auto-retried.
+Device-lifecycle platform for a European medical-device manufacturer (top contributor, 1,100+ commits): automated warranty-renewal pipelines (QStash cron), AI support-inbox triage (IMAP + OpenAI), a RAG support chatbot (Upstash Vector, BGE-M3 embeddings, cross-encoder reranking), and a Shopify → platform event broker (Firebase Functions, Cloud Tasks), HMAC-verified, idempotent, and auto-retried.
+
+**Full-Stack Developer (Contract) · Simplifai Inc** · Jan 2026 - present · Remote (Canada)
+
+Document-AI platform converting scanned utility-bill PDFs into validated Excel rows: a geometric anchor engine, a two-model consensus pipeline whose per-field disagreement drives confidence, and confidence routing that auto-accepts above 0.85 and queues the rest for review. Top contributor at 63% of the codebase. Also the production-hardening pass on a mobile language-learning app: per-user rate limiting, server-side key custody, Sentry, CI, accessibility, and RTL typography.
 
 **Frontend React Developer · Affpilot** · Oct 2023 - Sep 2025
 
 AI auto-blogging SaaS with 100k+ users: 16 AI article generators behind 1M+ generated articles, write-to-publish pipelines to WordPress/Blogger/Medium/Shopify, checkout and billing across Stripe/PayPal/SSLCommerz/bKash (~$390K processed), and founding frontend engineer (79% of commits) of Flippium, a website-flipping marketplace.
 
-**Software Developer (Contract) · H.A.K Academy** · Jan 2025 - Aug 2026
+**Software Developer (Contract) · H.A.K Academy** · Jan 2024 - Aug 2025
 
 Solo-built and operate a school platform for 1,000+ students: 2,000-3,000 biometric punches/day classified in real time, a rate-limited guardian-SMS service with retry/backoff and an emergency kill switch, running on Vercel + DigitalOcean (PM2 cluster).
 
@@ -47,9 +52,9 @@ Solo-built and operate a school platform for 1,000+ students: 2,000-3,000 biomet
 
 - **Frontend:** React 18/19 · Next.js (App Router) · Redux Toolkit / RTK Query · TanStack Query · Tailwind CSS · MUI · shadcn/ui
 - **Backend:** Node.js · Express · REST & GraphQL · Socket.io · cron & queue pipelines (QStash, Cloud Tasks) · JWT/OAuth 2.0 · RBAC
-- **AI/LLM:** OpenAI & Gemini APIs · RAG (vector search, embeddings, reranking) · structured outputs · SSE streaming
+- **AI/LLM:** OpenAI & Gemini APIs · RAG (vector search, embeddings, reranking) · structured outputs · SSE streaming · multi-model consensus (OpenRouter) · PDF/OCR extraction
 - **Databases:** MongoDB (Mongoose) · PostgreSQL · MySQL (Prisma) · Firestore
-- **Cloud & Ops:** Vercel · DigitalOcean (VPS, PM2) · Firebase/GCP Functions · GitHub Actions CI · Sentry
+- **Cloud & Ops:** Vercel · DigitalOcean (VPS, PM2) · Firebase/GCP Functions · Google Cloud Vision · GitHub Actions CI · Sentry
 - **Testing:** Vitest · Jest · React Testing Library
 
 ---
