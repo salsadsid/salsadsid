@@ -7,7 +7,7 @@
 ~3 years shipping production SaaS:
 
 - 🤖 An **AI content platform with 100k+ users**: the generation and publishing flows behind **1M+ articles (2B+ words)**
-- 🏥 A **device-lifecycle platform** for a European medical-device manufacturer: three portals, EU-MDR-oriented quality management, **top contributor with 1,100+ commits**
+- 🏥 A **device-lifecycle platform** for a European medical-device manufacturer: three portals, EU-MDR-oriented quality management, **leading a team of 4 as top contributor**
 - 📄 A **document-AI extraction engine** turning scanned utility bills into validated spreadsheets for a North American client: geometric anchors, two-model consensus, **63% of the codebase**
 - 🏫 A **school management system** I designed, built, and operate solo in production: **1,000+ students**, biometric attendance, guardian SMS
 
@@ -32,7 +32,7 @@ ZKTeco biometric attendance with guardian SMS within seconds of a scan, exams an
 
 **Full-Stack Developer · AlgoSoft Technologies** · Sep 2025 - present
 
-Device-lifecycle platform for a European medical-device manufacturer (top contributor, 1,100+ commits): automated warranty-renewal pipelines (QStash cron), AI support-inbox triage (IMAP + OpenAI), a RAG support chatbot (Upstash Vector, BGE-M3 embeddings, cross-encoder reranking), and a Shopify → platform event broker (Firebase Functions, Cloud Tasks), HMAC-verified, idempotent, and auto-retried.
+Device-lifecycle platform for a European medical-device manufacturer (team lead of 4 engineers, top contributor): automated warranty-renewal pipelines (QStash cron), AI support-inbox triage (IMAP + OpenAI), a RAG support chatbot (Upstash Vector, BGE-M3 embeddings, cross-encoder reranking), and a Shopify → platform event broker (Firebase Functions, Cloud Tasks), HMAC-verified, idempotent, and auto-retried.
 
 **Full-Stack Developer (Contract) · Simplifai Inc** · Jan 2026 - present · Remote (Canada)
 
