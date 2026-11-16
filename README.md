@@ -8,7 +8,7 @@
 
 - 🤖 An **AI content platform with 100k+ users**: the generation and publishing flows behind **1M+ articles (2B+ words)**
 - 🏥 A **device-lifecycle platform** for a European medical-device manufacturer: three portals, EU-MDR-oriented quality management, **leading a team of 4 as top contributor**
-- 📄 A **document-AI extraction engine** turning scanned utility bills into validated spreadsheets for a North American client: geometric anchors, two-model consensus, **63% of the codebase**
+- 📄 A **document-AI extraction engine** turning scanned utility bills into validated spreadsheets for a North American client: geometric anchors, two-model consensus, **top contributor**
 - 🏫 A **school management system** I designed, built, and operate solo in production: **1,000+ students**, biometric attendance, guardian SMS
 
 I build LLM features that ship (RAG pipelines, SSE-streaming interfaces, structured outputs) and the integration-heavy systems around them: payments (~$390K processed), HMAC-verified webhooks, cron/queue pipelines, biometric hardware, SMS gateways.
@@ -36,11 +36,11 @@ Device-lifecycle platform for a European medical-device manufacturer (team lead 
 
 **Full-Stack Developer (Contract) · Simplifai Inc** · Jan 2026 - present · Remote (Canada)
 
-Document-AI platform converting scanned utility-bill PDFs into validated Excel rows: a geometric anchor engine, a two-model consensus pipeline whose per-field disagreement drives confidence, and confidence routing that auto-accepts above 0.85 and queues the rest for review. Top contributor at 63% of the codebase. Also the production-hardening pass on a mobile language-learning app: per-user rate limiting, server-side key custody, Sentry, CI, accessibility, and RTL typography.
+Document-AI platform converting scanned utility-bill PDFs into validated Excel rows: a geometric anchor engine, a two-model consensus pipeline whose per-field disagreement drives confidence, and confidence routing that auto-accepts above 0.85 and queues the rest for review. Top contributor. Also the production-hardening pass on a mobile language-learning app: per-user rate limiting, server-side key custody, Sentry, CI, accessibility, and RTL typography.
 
 **Frontend React Developer · Affpilot** · Oct 2023 - Sep 2025
 
-AI auto-blogging SaaS with 100k+ users: 16 AI article generators behind 1M+ generated articles, write-to-publish pipelines to WordPress/Blogger/Medium/Shopify, checkout and billing across Stripe/PayPal/SSLCommerz/bKash (~$390K processed), and founding frontend engineer (79% of commits) of Flippium, a website-flipping marketplace.
+AI auto-blogging SaaS with 100k+ users: 16 AI article generators behind 1M+ generated articles, write-to-publish pipelines to WordPress/Blogger/Medium/Shopify, checkout and billing across Stripe/PayPal/SSLCommerz/bKash (~$390K processed), and founding frontend engineer of Flippium, a website-flipping marketplace.
 
 **Software Developer (Contract) · H.A.K Academy** · Jan 2024 - Aug 2025
 
@@ -53,6 +53,7 @@ Solo-built and operate a school platform for 1,000+ students: 2,000-3,000 biomet
 - **Frontend:** React 18/19 · Next.js (App Router) · Redux Toolkit / RTK Query · TanStack Query · Tailwind CSS · MUI · shadcn/ui
 - **Backend:** Node.js · Express · REST & GraphQL · Socket.io · cron & queue pipelines (QStash, Cloud Tasks) · JWT/OAuth 2.0 · RBAC
 - **AI/LLM:** OpenAI & Gemini APIs · RAG (vector search, embeddings, reranking) · structured outputs · SSE streaming · multi-model consensus (OpenRouter) · PDF/OCR extraction
+- **AI-assisted development:** Claude Code (skills, subagents, MCP, parallel git worktrees) · Cursor · Codex
 - **Databases:** MongoDB (Mongoose) · PostgreSQL · MySQL (Prisma) · Firestore
 - **Cloud & Ops:** Vercel · DigitalOcean (VPS, PM2) · Firebase/GCP Functions · Google Cloud Vision · GitHub Actions CI · Sentry
 - **Testing:** Vitest · Jest · React Testing Library
