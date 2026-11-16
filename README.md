@@ -4,7 +4,7 @@
 
 📍 Dhaka, Bangladesh (UTC+6) · Open to remote · 🌐 [salmansadiksiddiquee.tech](https://salmansadiksiddiquee.tech)
 
-~3 years shipping production SaaS:
+3+ years shipping production SaaS:
 
 - 🤖 An **AI content platform with 100k+ users**: the generation and publishing flows behind **1M+ articles (2B+ words)**
 - 🏥 A **device-lifecycle platform** for a European medical-device manufacturer: three portals, EU-MDR-oriented quality management, **leading a team of 4 as top contributor**
